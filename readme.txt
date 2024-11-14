@@ -14,6 +14,6 @@ features_extraction.py - extraction of AE features from .pridb and .tradb files
 
 morlet_wavelet.py -      calculation and plot of Morlet continuum wavelet transform for each waveform 
 
-bvalue_sentryf.py - evaluation of bvalue and sentry function 
+bvalue_sentryf.py - evaluation of b-value and sentry function 
 
-waveletcumratios.py - script to calculate wavelet packet cumulative ratios 
+wavelet_cumulative_ratios.py - script to calculate wavelet packet cumulative ratios 
