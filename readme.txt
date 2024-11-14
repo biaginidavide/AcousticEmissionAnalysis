@@ -1,9 +1,9 @@
 Acoustic emission analysis:
 
-This python tool allows to perform different types of analysis of acoustic signals.
+This Python tool allows to perform different types of analysis of acoustic signals.
 It is intended to analyze signals collected using Vallen system http://www.vallen.de/
-It can be used in combination with the dataset: 
-see the reference paper at: 
+It can be used in combination with the dataset: https://research.tudelft.nl/en/datasets/acoustic-emission-monitoring-in-cfrp-compression-tests
+see the reference paper at: https://journals.sagepub.com/doi/full/10.1177/00219983231163853
 
 All scripts make use of vallene ae tool to open and extract acoustic data (see more details at https://pypi.org/project/vallenae/)
 Before running the scripts, store the folder 'valleneae' in local Python libraries
