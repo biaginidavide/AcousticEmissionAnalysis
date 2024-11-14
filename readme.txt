@@ -1,15 +1,12 @@
 Acoustic emission analysis:
 
-This pithon tool allows to perform different types of analysis of acoustic signals.
-It is intended to analyse signals collected using Vallen system http://www.vallen.de/
+This python tool allows to perform different types of analysis of acoustic signals.
+It is intended to analyze signals collected using Vallen system http://www.vallen.de/
 It can be used in combination with the dataset: 
-see the refernce paper at: 
+see the reference paper at: 
 
 All scripts make use of vallene ae tool to open and extract acoustic data (see more details at https://pypi.org/project/vallenae/)
-The sripts run on python version 3.8.3
-The suggested scripting tool is Spyder (https://www.spyder-ide.org/)
-
-Before run the scripts, store the folder 'valleneae' in local python libraries
+Before running the scripts, store the folder 'valleneae' in local Python libraries
 
 Content: 
  
